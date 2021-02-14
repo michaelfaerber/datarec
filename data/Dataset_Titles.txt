@@ -1,0 +1,1692 @@
+title
+googlenews-vectors-negative300
+Stock Market Data
+#Charlottesville
+datasets.zip
+RAW files
+X-ray crystallography data
+Figure S2
+NN training and testing
+Google-Landmarks Dataset
+Robotic surgery
+Biodiversity in National Parks
+New York Times Best Sellers
+VDiscovery
+International airline passengers
+FIFA World Cup
+Datasets for outlier detection
+Appendix S2
+Images of Lego Bricks
+Food choices
+Single locus analysis
+Excel Dataset
+Clustering analysis of microarray data
+USDA plant database
+GloVe 6B
+Genomic datasets
+Figure3A
+all-words
+Song Lyrics
+Liquid foam
+Visualization 1
+PCA dataset
+Intraday-Data
+Solar System Features
+Visualization 3
+Amazon Fine Food Reviews
+World Cities
+Cycling Metrics
+Human proteins interactions
+Interactive Locomotion
+OFC data
+Data.xlsx
+Adaptive Incremental Mixture Markov Chain Monte Carlo
+Yelp 2015
+Star Cluster Simulations
+Breast Histopathology Images
+Crypto Currencies
+RuStance
+Chicago Crime
+Fig 3a.
+sales of shampoo
+Python-scripts
+Rooftop Energy Potential of Low Income Communities in America REPLICA
+Supplementary Table 9
+Empathic accuracy
+The Movies Dataset
+ACTINN
+test video
+THzSecurityImageDataset
+BOLD5000
+horses for courses
+CYBER CRIME
+Flickr Image dataset
+What people purchase
+THz Security Image Dataset
+Orthologous groups
+100 phylogenies
+CUSTOMER CHURN
+Disk Space Data
+"Wikidata Property Ranking'
+Supplemental Information
+Study 1 stimuli
+G-03
+dataset 4
+Understanding of Pain
+NTU Dataset
+JournalInformation
+Queries: DBpedia
+New York City population
+Appendix 1
+Traffic accident severity
+sex-classification
+Supplemental Table 6
+MNIST Digit Recognition
+Computational Imaging
+Relevance assessment
+Optimized implementations of voxel-wise degree centrality and local functional connectivity density mapping in AFNI
+The Genomes Mapserver
+Countries of the world
+Phylogenomic Supermatrices
+Incidence dataset
+Student Feedback Dataset
+Chat 80
+smsspamcollection
+BASE DE DATOS
+Speed Dating Experiment
+Minimal dataset
+Supplementary Materials
+Carbon Nanotubes
+Creating Customer Segments
+Model output data
+Linked Data Platforms
+GPCP Version 2.2 Combined Precipitation Data Set
+Captcha Images
+Data for both species
+Database 2
+raw mapping data
+IMDB Movie Review
+Jester Collaborative Filtering Dataset
+YouTube Comedy Slam
+UCI Cardiotocography
+person.csv
+Smart Home Scenarios
+Example dataset
+Baby data
+Micro-Loans
+FocaLens
+Medium Articles
+Bank Marketing Dataset
+"Who starts and who debunks rumors'
+FIFA World Cup 2018
+Style Color Images
+thyroid CT images
+No Data Sources
+Query reformulation
+chromosome number polymorphism
+Dataset S1
+ISCO-08
+The Million Song Dataset
+Dataset Descriptions
+Arabic Handwritten Characters Dataset
+An example of PSCP files in which multiple microarray datasets were analyzed simultaneously
+Malicious and Benign Websites
+wsdream
+Additional File 10:
+Meteorological dataset
+GoodReads Dataset
+Fungi Dataset
+Movie Industry
+Question Answering Data
+LSDO
+Prospective Harmonization
+Database 7
+concatenated mtDNA dataset
+GloVe: Global Vectors for Word Representation
+Data3
+Black Friday
+Failure dataset
+Exchange Rates
+Employee Attrition
+EmBeD data
+Behavioral Risk Factor Surveillance System
+MNIST FASHION
+Supplementary Data 7
+Medical Appointment
+Mortality Curves
+SMS dataset
+Lahman Baseball Database
+Piezoelectric Tensor Data
+"DueCredit: automated collection of citations for software
+Data 2
+Spearman correlation coefficient analysis
+Japanese-English Bilingual Corpus
+Dataset I
+CelebA resized
+LORIS: DICOM anonymizer
+population genetic dataset
+Our overall approach
+"Electronic supplementary material
+Developmental trajectories in brain development
+2009 data
+Visualization 2
+Supraglacial Debris Cover
+Two loci analysis
+Kaggle Datasets
+Indirect Food Additives
+Venues in New York City
+Air Passengers
+Movie Dataset
+Fruits 360 dataset
+Indian Pines Hyperspectral Dataset
+Suicides in India
+Horse Racing Data
+The transcriptome assembly
+Field temperature
+Journal Data
+Shifted cumulative regulation
+dataset from TCGA
+Additional File 2:
+Names Corpus
+GWAS summary statistics
+Supplementary table 2
+Random Forest Code
+USArrests
+Yelp 2013
+PSets
+Dielectric Constant Data
+RumourEval 2019 data
+Non-synchronized HeLa cells
+Sedimentology
+Twitter Threads
+Crime in Atlanta
+ENEM 2015
+Lung Nodule Malignancy
+nba draft
+Company Reviews
+Dataset Summary
+Bug Triaging
+New York Stock Exchange
+Cat and Dog
+Nobel Prize winners
+World Values Survey
+MIT-BIH Arrhythmia Database
+Yelp 2014
+Aretha Franklin
+A cortical surface-based geodesic distance package for Python
+The International Surface Pressure Databank version 3
+loghub
+Figure 5
+Transplant experiment
+Accounting Network
+female survival
+Molluscan Shell Matrix Proteins
+Supplementary Figure 2
+Water Analyte Concentrations
+Global Shark Attack File
+Carsales
+Solar and Lunar Eclipses
+Imagenet32
+Study 3 data
+20 Newsgroups
+R Codes
+Post-Operative Patient Data Set
+Sets of omnidirectional images
+ABC dataset
+Figure S4
+Type 2 Diabetes
+Image Dataset for Object Recognition
+climate data
+Supplemental Dataset 1
+R data file
+Appendix S1
+Lower Back Pain Symptoms Dataset
+Bike Sharing
+GTZAN music/speech collection
+Boston housing dataset
+Caricature Image
+Demand Dataset
+rawdata
+M3500
+DDY
+Supplementary Table 1-2
+Figure 4
+IMDB data
+Handwritten Names
+Bitcoin Dataset
+Wikipedia Article Titles
+Health Insurance Coverage
+Motifs Data
+SPEECH-COCO
+ArXiV Archive
+Adult income dataset
+Ships in Satellite Imagery
+ACL Accepted Papers
+Microsatellites dataset
+Multivariate alternating decision tree
+Student Marks
+Input and Output Files
+Community phylogeny
+Cohort Data
+Data.xlsx
+Air quality Dataset
+Histogram Inputs
+Uncompressed version
+Supplemental Table 5
+FMC dataset
+Olivetti Faces
+Retail Sales Forecasting
+Study 1 data
+Melbourne Housing
+datasets.tar.gz
+Dataset2
+train6
+Readme.txt
+Iris dataset
+A schematic view of the procedure
+Additional File 1: Table S1.
+movie lens
+Color Rendition Characteristics
+Multidimensional Poverty Measures
+Wisconsin Breast Cancer Dataset
+Pima Indian Diabetes Data
+InteractiveSegmentation
+Facial keypoints
+African Elephants
+"Data Sharing
+Supplemental Dataset
+Bibliographic Dataset
+Data4
+Reference in the dataset
+Boston Housing
+Thrombolysis
+Mitochondrial DNA sequences
+Allele files
+Protein interaction networks
+Ebola
+LiveStreaming
+Frames from video
+The phenotype gap
+Introduction to Machine Learning
+European Soccer Database
+image files
+Overwatch
+Wikipedia Edits
+London Crime
+Global Causes of Mortality
+International Financial Statistics
+Fashion Mnist
+Supplementary table 5
+Data sheet
+Cosmetic Products
+"Electronic supplementary material
+iris.csv
+Quotes Dataset
+water pump
+Online Job Postings
+Missing People
+Survival data.
+Users Data
+Datasets used in this study
+Predict Angina
+FROM-GLC-Hierarchy
+Video Games Review
+Intel Xeon Scalable Processors
+Seattle Office for Civil Rights
+RAW_DATA
+Loans data
+Properties of PPI networks
+Keras Models
+Generating music with resting-state fMRI data
+Pavia University Hyperspectral dataset
+ERA5 Reanalysis
+ESM file
+Game of Thrones
+Iris Data Set
+SNP datasets
+Fecal hormones
+World Population
+sift data
+Modern dataset
+Visualization 4
+Hotel review
+JSON File
+Membrane feeding assays
+morphological_data
+heterozygosity-fitness
+Pedestrian Dataset
+Data for 27 countries
+Supplementary Data 1
+phonons
+Proxy data
+Figure 5C
+Football Events
+Internal Cases
+Bag of Words Meets Bags of Popcorn
+Site information
+20 Newsgroups
+Supplementary Table 7
+Table 2
+Simulation dataset
+Indian License Plates
+The exon diversity
+RAxML Concatenated
+Twitter sentiment analysis
+Lake catchment
+Microsatellite genotype data
+web log dataset
+Data file S1
+Job Recommendation
+Predicting Movie Revenue
+Dataset II
+input_data
+Video Game Sales
+Breast Histology Images
+Additional-data
+Iris flower dataset
+W-band gyro-TWA
+Interactive Hand Gesture
+Charities in the United States
+World Marathon Majors
+Laptop Prices
+"Sokoto Coventry Fingerprint Dataset (SOCOFing)'
+Data.xlsx
+Human Development Index
+Facilitating big data meta-analyses for clinical neuroimaging through ENIGMA wrapper scripts
+Scheduling In Cloud Computing
+Mnist Data
+Natural Speech Dataset
+Advancing open science through NiData
+Music notes
+IBI duration
+DM Authors
+World of Warcraft Avatar History
+Figure 4
+Abalone Dataset
+Full dataset
+house price prediction
+APS dataset
+The Blazing Signature Filter
+perovskites
+Amino acid dataset
+Supplementary Table 3
+Coder A
+Lobbying Data
+dataset cleaned
+Data available for each species
+TRIOML
+US PRESIDENTS
+House Prices dataset
+Gowalla Checkins
+data_packet
+Census data
+Sales Data
+Board Game Data
+Insult sets
+Population Time Series Data
+Data for figures
+Truth table
+Wine Quality
+Gene matrix
+Periodic table of the elements
+Wikipedia Sentences
+Passenger Satisfaction
+Tatoeba Sentences
+Taxa partition
+Dataset References
+Consumer Complaints
+MAS 5
+MovieLens+IMDb
+Cars Data
+Fantasy Premier League
+"CITES Wildlife Trade Database'
+Movie Reviews
+Study 2 data
+Megapool
+Fig 4a.
+What we are trying to do
+car prediction
+Drosophila Melanogaster Genome
+"Netflix Prize data'
+Arabic Handwritten Digits Dataset
+Wikisource
+Internet Archive
+DBpedia
+OpenStreetMap
+Wikidata
+National Register of Historic Places
+UNESCO World Heritage Site
+MusicBrainz
+ChemIDplus
+Project Gutenberg
+MEROPS
+AllMusic
+IUCN Red List
+Integrated Authority File
+Internet Movie Database
+Catalogue of Life
+The Oxford English Dictionary
+International Union for Conservation of Nature
+Virtual International Authority File
+Fortune 500
+Encyclopedia of Life
+National Center for Biotechnology Information
+Integrated Taxonomic Information System
+Aozora Bunko
+Rotten Tomatoes
+Beilstein database
+Bonn Conventio
+Gene Ontology
+ZEMA
+Geographic Names Information System
+Transporter Classification database
+Metacritic
+OmegaWiki
+Australian Plant Name Index
+Biodiversity Heritage Library
+PubMed
+Last.fm
+tz database
+WikiMapia
+Medical Subject Headings
+Google Books
+Research Papers in Economics
+BirdLife International
+The Zoological Record
+Anime News Network
+Box Office Mojo
+dict.cc
+PubMed Central
+Europeana
+British National Corpus
+The European Library
+Online Mendelian Inheritance in Man
+Persée
+VD 17
+Gracenote
+Collins English Dictionary
+archINFORM
+Pauline epistles
+PubChem
+freedb
+Fortune 1000
+Polity data series
+AGROVOC
+AMIS Plus
+Aquatic Sciences and Fisheries Abstracts
+Abandonia
+eMedicine
+Abbreviationes
+Urban Dictionary
+Aminet
+Scopus
+ARKive
+Karlsruher Virtueller Katalog
+Windows Registry
+World Digital Library
+National Diet Library
+NASA/IPAC Extragalactic Database
+Tatoeba
+Discogs
+Choral Public Domain Library
+International Music Score Library Project
+Coffin Texts
+Linguist List
+MedlinePlus
+BRENDA
+listed building in the United Kingdom
+Bibliographic Ontology
+Ordbog over det danske Sprog
+MyHeritage
+World Register of Marine Species
+Art & Architecture Thesaurus
+Deutsche Digitale Bibliothek
+CIDOC Conceptual Reference Model
+Arachne
+Dublin Core
+The Plant List
+Perseus Project
+EURODAC
+SIMBAD
+Deutsche Fotothek
+The Merck Index
+MetaCyc
+arthistoricum.net
+LibraryThing
+Astrophysics Data System
+ResearchGate
+Registry of Toxic Effects of Chemical Substances
+Netherlands Institute for Art History
+Protein Data Bank
+Austrian Literature Online
+Instituto Nacional de Estadística y Geografía
+Fossilworks
+Joconde
+Mathematics Genealogy Project
+GeoNames
+The Freesound Project
+FishBase
+YouPorn
+WorldCat
+Bridgeman Art Library
+Registry of Open Access Repositories
+Baseball-Reference.com
+Biographical Portal
+Contenta
+BoardGameGeek
+GenBank
+ChEBI
+Digital Literary Academy
+UniProt
+Grooveshark
+Kyoto Encyclopedia of Genes and Genomes
+International Plant Names Index
+Project Runeberg
+Pornhub
+Encyclopaedia Metallum
+PANGAEA
+Linguee
+International Children's Digital Library
+Brown Corpus
+International Shark Attack File
+BugMeNot
+Generally recognized as safe
+Israeli Central Bureau of Statistics
+Charity Navigator
+Microsoft Academic Search
+LibriVox
+WikiTree
+Cochrane Library
+DrugBank
+Jamendo
+World Atlas of Language Structures
+Plena Ilustrita Vortaro de Esperanto
+Current Index to Statistics
+UbuWeb
+Rate Your Music
+Cyc
+International HapMap Project
+Hungarian Electronic Library
+Online Etymology Dictionary
+GEOnet Names Server
+Pandora Radio
+LyricWiki
+Open Library
+Web of Science
+German Reference Corpus
+Deutsches Textarchiv
+dblp computer science bibliography
+Directory of Open Access Journals
+Pinakes
+Shanghai Interbank Offered Rate
+RedTube
+Academic Search
+GetInfo
+Schengen Information System
+English Short Title Catalogue
+Ensembl genome database project
+Entrez
+MP3.com
+ST 16
+EudraVigilance
+NNDB
+Extrasolar Planets Encyclopaedia
+FOAF
+Max Planck Digital Library
+Foundational Model of Anatomy
+JSTOR
+Gesamtkatalog der Wiegendrucke
+statistical business register
+Flora of North America
+Freebase
+SIMAP
+Web Gallery of Art
+GEO-LEO
+Gallica
+George Eastman Museum
+Orphanet
+Getty Thesaurus of Geographic Names
+VD 16
+Reaxys
+Global Biodiversity Information Facility
+Mammal Species of the World
+MEDLINE
+Mutopia Project
+Vitis International Variety Catalogue
+PostGIS
+Reptile Database
+Immune Epitope Database and Analysis Resource
+VizieR
+World Database on Protected Areas
+VD 18
+Stanford Physics Information Retrieval System
+bibliographic database
+LIBRIS
+Hessian Regional History Information System
+Handbook of the Birds of the World
+Missouri Botanical Garden
+Index Fungorum
+Marxists Internet Archive
+Mouse Genome Informatics
+Moviepilot
+National Center for Education Statistics
+online public access catalog
+WordReference.com
+Filmweb
+Reactome
+Web of Knowledge
+Cambridge Structural Database
+SABIO-Reaction Kinetics Database
+Victorian Heritage Register
+Simple Knowledge Organization System
+Social Security Death Index
+Tree of Life Web Project
+ChemSpider
+Swissbib
+Systems Biology Ontology
+Tenders Electronic Daily
+Animal Sound Archive
+Topten
+Semantically-Interlinked Online Communities
+Transfermarkt
+Digital Library for Dutch Literature
+Union List of Artist Names
+AntWeb
+Virtual Laboratory
+Jewish Virtual Library
+Greenstone
+MycoBank
+Tropicos
+SUDOC
+Swiss-Prot
+FilmAffinity
+Ameco
+IntEnz
+CiteSeerX
+Fauna Europaea
+academia.edu
+AlgaeBase
+Amphibian Species of the World
+Animal Diversity Web
+BASOL
+European Cultivated Potato Database
+Anatomography
+Education Resources Information Center
+British Trust for Ornithology
+Digital Public Library of America
+Common Locale Data Repository
+Compendex
+Dialnet
+Orotariko Euskal Hiztegia
+InterPro
+GeneReviews
+EDGAR
+Equasis
+FamilySearch
+Flora of Australia
+FlyBase
+FranceTerme
+FRANCIS
+GISAID
+Global Invasive Species Database
+HathiTrust
+Hyper Articles en Ligne
+Inspec
+Center for Biological Diversity
+National Science Digital Library
+Open Food Facts
+Powder Diffraction File
+Proteopedia
+Genius
+Reverso
+Digital Library of Slovenia
+Saccharomyces Genome Database
+Schema.org
+Dictionary of the Scots Language
+International Nuclear Information System
+SIRENE
+Tela Botanica
+The Arabidopsis Information Resource
+National Digital Library of India
+Harvard University Center for Italian Renaissance Studies
+ČSFD
+World Spider Catalog
+WormBase
+Rfam
+SciFinder
+Library of Congress Online Catalog
+IntraText
+ODIS
+JPL Small-Body Database
+Kepler Input Catalog
+Portuguese Web Archive
+magazines.russ.ru
+GOLD
+Multitran
+Russian National Corpus
+ontology alignment
+Speech corpus
+Mushroom Observer
+CDDB
+CRIStin
+BIBSYS
+Filmweb
+AGRICOLA
+ASD
+ATLA Religion Database
+Adverse Event Reporting System
+AgBase
+Allele frequency net database
+Alternative splicing and transcript diversity database
+America's Most Endangered Historic Places
+American Birding Association
+American National Corpus
+AmoebaDB
+Analytical Sciences Digital Library
+"Anemi
+AnimalTFDB
+Animal Genome Size Database
+Archaeology Data Service
+Arnetminer
+Oxford Dictionaries
+AusStage
+AustLit: The Australian Literature Resource
+Automated Similarity Judgment Program
+Aviation Safety Reporting System
+BIOSIS Previews
+BISC
+BabelNet
+Baen Free Library
+Biblioteca Virtual Miguel de Cervantes
+MAINWAY
+BindingDB
+Bio2RDF
+BioGRID
+BioModels Database
+BioOne
+Biographical Directory of Federal Judges
+BirdLife Australia
+BitterDB
+Bookshare
+British Humanities Index
+Brix
+BugGuide
+CAB Direct
+CATH Protein Structure Classification database
+CINAHL
+COSMIC cancer database
+California Digital Library
+California Ethnic and Multicultural Archives
+California Native Plant Society
+Chinese Text Project
+National Commission for the Knowledge and Use of Biodiversity
+Contemporary Authors
+Copac
+Corpus of Contemporary American English
+Corpus of Electronic Texts
+Crossref
+Cuneiform Digital Library Initiative
+DAD-IS
+DOAP
+DPVweb
+Database of Interacting Proteins
+Death Master File
+Department of Defense Serum Repository
+Dietary Supplements
+DigitalNZ
+Digital Comic Museum
+Digital Library of Georgia
+DisProt
+Disease Ontology
+Domine Database
+DroID
+eBird
+Embase
+EcoCyc
+eggNOG
+Eighteenth Century Collections Online
+English-Arabic Parallel Corpus of United Nations Texts
+Ensembl Genomes
+Europarl corpus
+Europe PubMed Central
+European Nucleotide Archive
+Exoplanet Archive
+FADO
+FRBRoo
+FloraBase
+Flora of China
+Fusarium graminearum genome database
+Global Administrative Areas
+GEISA
+GSHHG
+GWASdb
+Gazetteer of Australia
+GeneCards
+Gene Wiki
+Generic Model Organism Database
+Genetic codes
+GeoRef
+PsycINFO
+GALILEO
+H-Invitational
+HIV Drug Resistance Database
+AQL
+Hazardous Substances Data Bank
+Historypin
+Hispana
+Human Metabolome Database
+Human Protein Reference Database
+IEEE Xplore
+Index Copernicus
+information schema
+Intercontinental Dictionary Series
+International Protein Index
+Interstate Identification Index
+Invasive Species Compendium
+Iraqi Virtual Science Library
+IsoBase
+ChEMBL
+KUPS
+Kujawsko-Pomorska Digital Library
+LIDB
+LLMDB
+Lancaster-Oslo-Bergen Corpus
+Latindex
+Lattes Platform
+List of Prokaryotic names with Standing in Nomenclature
+Latin American and Caribbean Center on Health Sciences Information
+Lyon-Meudon Extragalactic Database
+MAREC
+MICAD
+MICdb
+MISLE
+Making of America
+Mapper(2)
+Melvyl
+miRBase
+MiRTarBase
+MimoDB
+ModBase
+Mouse Phenome Database
+Mouse gene expression database
+Munk's Roll
+MuseData
+MusicDNA
+NAPP
+NCBI Epigenomics
+NGSmethDB
+National Biodiversity Network
+National Bridge Inventory
+National Corpus of Polish
+National Elevation Dataset
+National Software Reference Library
+Natural Earth
+neXtProt
+New Advent
+Nolot
+Norsk Ordbok
+OER Commons
+Online Books Page
+OpenCorporates
+Ordnett
+OriDB
+OrthoDB
+Orthologous MAtrix
+Oxford English Corpus
+P2CS
+PATRIC
+PDBsum
+PHI-base
+Pathway Commons
+Penn World Table
+PhilPapers
+Phosida
+Phospho3D
+PhylomeDB
+Planetary Data System
+PPDB
+Plant ontology
+Plazi
+Post-Reformation Digital Library
+ProGlycProt
+ProRepeat
+Project Vote Smart
+Protein circular dichroism data bank
+Proteomics Identifications Database
+Pseudogene
+PubMed Central Canada
+"Publication of Archival
+Quilt Index
+REPAIRtoire
+Registry of Open Access Repositories Mandates and Policies
+REBASE
+Redalyc
+Regional Planetary Image Facility
+RxNorm
+SAGE KE
+SUPERFAMILY
+SciELO
+SeaLifeBase
+SedDB
+Sequence Ontology
+Shiron.net
+Sibley Music Library
+Social Science Research Network
+Atlas
+StarBase
+TRICS
+Tanums store rettskrivningsordbok
+Technical Report Archive & Image Library
+textfiles.com
+Small Molecule Pathway Database
+TopFIND
+Toxin and Toxin-Target Database
+UK Biobank
+Uberon
+VIOLIN
+Viral Bioinformatics Resource Center
+VoiD
+WhoSampled
+WikiPathways
+Wikifonia
+Women Writers Project
+World Checklist of Selected Plant Families
+Xeno-canto
+YAGO
+ZINC database
+ZooBank
+Catalog of Fishes
+Glosbe
+China Academic Library and Information System
+Internet Movie Script Database
+DisGeNET
+Spreadthesign
+Svensk mediedatabas
+CiNii
+Crunchbase
+Event Log
+J-STAGE
+MRDB
+NACSIS-CAT
+Weblio
+Czech Terminology Database of Library and Information Science
+Automatic Fingerprint Identification System
+Polona
+Index Herbariorum
+Narodowe Archiwum Cyfrowe
+NUKAT
+Terhikki
+Finnish Social Science Data Archive
+The Norwegian Patient Registry
+Kramerius
+BioCyc database collection
+Pomet
+Statistikbanken
+BioLib
+National Digital Science Library
+Hungarian Periodicals Table of Contents Database
+New English-Irish Dictionary
+Library of Congress Authorities
+Manuscriptorium
+Czech National Corpus
+China Biographical Database
+Tilastopaja
+Taxonomy database of the U.S. National Center for Biotechnology Information
+FoundationDB
+The National Map
+Canadian Geographical Names Data Base
+LncRNAdb
+MinDat
+Handbook of Mineralogy
+rruff
+webmineral.com
+Sycomore
+World Database of Happiness
+ViralZone
+Cochrane Database of Systematic Reviews
+Database for Spoken German
+Ishim
+Free Music Archive
+CiteSeer
+The LiederNet Archive
+Experimental Factor Ontology
+BNAber
+Atlas of Living Australia
+Netpath
+xHamster
+CyberLeninka
+Helsinki Annotated Corpus
+Ghana Club 100
+Data Catalog Vocabulary
+National Automated Fingerprint Identification System
+Barcode of Life Data Systems
+Digital Image Archive of Medieval Music
+COMBINE
+National Biomedical Imaging Archive
+iNaturalist
+Welsh Newspapers Online
+Lester S. Levy Collection of Sheet Music
+Figshare
+FlyExpress
+Analysis & Policy Observatory
+Human Phenotype Ontology
+BIBFRAME
+MAQAM
+Influenza Research Database
+MNIST database
+The Numbers
+PROSESS
+RefDB
+International Tree-Ring Data Bank
+CollecTF
+Y Chromosome Haplotype Reference Database
+IUPHAR/BPS Guide to PHARMACOLOGY
+Library of Congress Linked Data Service
+Anopress
+National Vital Statistics System
+PREDITOR
+Medical Heritage Library
+Glottolog
+Japan Center for Asian Historical Records
+hymnary.org
+Global Terrorism Database
+GDELT Project
+SILVA ribosomal RNA database
+PharmGKB
+Volume Area Dihedral Angle Reporter
+BioStor
+Trove
+OpenStreetMap Wiki
+Open Science Framework
+Finnish Population Information System
+Doria
+Finna
+Calflora
+Postcode data
+Aviation Safety Network accident description
+AFL Tables
+Database of Vascular Plants of Canada
+database of Genotypes and Phenotypes
+GRIN Taxonomy for Plants
+Driver Database
+GrassBase
+Australian Bibliographic Network
+BnF authorities
+NIOSH pocket guide to chemical hazards
+ClinVar
+Gymnosperm Database
+Dyntaxa
+CERN Document Server
+NCBI Gene
+Shipyards
+ACToR database
+Avibase
+swMATH
+The Movie Database
+KNApSAcK
+LIPID MAPS
+NDF-RT
+CLOCKSS
+The Academic Family Tree
+FANTOM
+Directory of Open Access Books
+Qatar Digital Library
+Austrian Parliament personal database
+Library Genesis
+Early Canadiana Online
+Trismegistos
+Ontology Lookup Service
+Phenocarta
+Zenodo
+WomenWriters
+PhDTree
+Archives Service Center
+OpenFDA
+Semantic Scholar
+Knowledge Web
+European Reference Index for the Humanities
+TrEMBL
+Manioc
+Croatian Scientific Bibliography
+UCI ChemDB
+Panama Papers
+SciCrunch
+OpenNeuro
+Nutrient Tables for use in Australia
+3DMet
+British Nursing Index
+Australasian Pollen and Spore Atlas
+Gazetteer of Planetary Nomenclature
+MIAR
+MassBank
+XMetDB
+Encyclopedia of DNA Elements at UCSC
+SureChEMBL
+UniChem
+NMRShiftDB
+MetaboLights
+eNanoMapper
+NCBI Nucleotide
+PATRIC
+SuperCYP
+BARCdb
+NCBI Protein
+caNanoLab
+Nanomaterial Registry
+BiGG Models
+STITCH
+diXa Data Warehouse
+CrocBITE
+MetaboAnalyst
+RettBASE
+euL1db
+MethBank
+General Internet Corpus of Russian
+Jisho
+Cellosaurus
+ECARTICO
+BioCarta
+Library of Apicomplexan Metabolic Pathways
+Metabolomics Workbench
+PeroxisomeDB
+JASPAR
+FunCat
+ZINC15
+White Rose Research Online
+ImageNet
+US Census Bureau International Data Base
+PomBase
+BacDive
+DIGAR
+Teuchos
+Common Core of Data
+Standards for Networking Ancient Prosopographies: Data and Relations in Greco-Roman Names
+Catalogue of Life in Taiwan
+Global Plants
+OpenCitations Corpus
+WikiGenomes
+ENZYME
+Mapillary database
+NIOSHTIC-2
+National Inventory of Dams
+TAXREF
+CompTox Chemistry Dashboard
+open data portal
+South African Natural Compounds Database
+Open PHACTS Discovery Platform
+Gramene
+CEUR Workshop Proceedings
+earthquake.usgs.gov
+Open Spectral Database
+General Finnish Ontology
+CIViC database
+Open Media Database
+DrugCentral
+GRID
+IntAct protein interaction database
+kPath
+UNdata
+Ensembl Plants
+CycleBase
+UniProt-GOA
+The File Room
+Mix'n'match
+Panarctic Flora
+Developmental FunctionaL Annotation at Tufts
+LifeDB
+Proteome Inc.
+Vagalume
+Microsoft Academic
+Evidence & Conclusion Ontology
+PROSPERO
+European Genome-phenome Archive
+MathSciNet
+Global Ingredient Archival System
+Species-ID
+MinIO
+AuthorClaim
+Zebrafish Model Organism Database
+Open TG-GATEs
+Devri
+Stanford Natural Language Inference corpus
+Finnish MP database
+SNAC
+GeoNames ontology
+Critical Assessment of Protein Function Annotation
+Open Metadata Registry
+Infrafrontier
+COCO
+The Himalayan Database
+lobid-organisations
+lobid-resources
+Environment Ontology
+WordSim-353
+Dixi
+Athenaeum
+Google analogy test set
+Stanford Question Answering Dataset
+CuratedTREC
+WebQuestions
+WikiMovies
+Catalogue of Illuminated Manuscripts
+WikiPapers
+The Monarch Initiative
+Gary Kessler's File Signature Table
+Movie Review Data
+Customer Review Datasets
+Amazon product data
+Stanford Sentiment Treebank
+Large Movie Review Dataset
+MPQA Opinion Corpus
+Ulysses database
+MyVariant.info
+FB15K
+Brent corpus
+"NPS Internet Chatroom Conversations
+E-Theses Online Service
+SecondHandSongs
+SwissLipids
+BioAssay Ontology
+Extracellular RNA Atlas
+Leipzig Corpora Collection
+"Queensland Registry of Births
+Paradise Papers
+ACM Digital Library
+The Camelot Project
+Semantic Wiki Vocabulary and Terminology
+Botanico Periodicum Huntianum
+ClinGen Allele Registry
+WikiQA
+SimLex-999
+Rubenstein-Goodenough dataset
+LinkedGeoData
+GeoLinkedData
+Common Voice
+Early Modern Letters Online
+Semantic Publishing and Referencing Ontologies
+FRBR-aligned Bibliographic Ontology
+Citation Typing Ontology
+Bibliographic Reference Ontology
+CIFAR-10
+CIFAR-100
+E-Periodica
+CBCL Face Database
+20 Newsgroups data set
+UMBC corpus
+Ontobee
+Ecocrop
+Complex Portal
+AmphibiaWeb
+Valka
+imSitu
+Digital Repository of Ireland
+California Data Exchange Center
+Mycology Collections data Portal
+Clojars
+donor register
+Green's Dictionary of Slang
+Biological Magnetic Resonance Data Bank
+New York Public Library Digital Collections
+datos.bne.es
+50 Salads dataset
+YouTube-8M
+4TU.Centre for Research Data
+Missouri Cancer Registry and Research Center
+Nature Index
+Interim Register of Marine and Nonmarine Genera
+Sistema de Información Cultural
+BEIC Digital Library
+Merriam-Webster online dictionary
+TESEO
+WikiSQL
+Food-10k
+B.R.A.H.M.S.
+Sol Genomics Network
+Media Art Database
+LC-QuAD
+HOLLIS
+Silent Era
+Bgee
+Harvard Dataverse
+ACGT Master Ontology
+Adverse Event Reporting Ontology
+Apollo Structured Vocabulary
+Bacterial Clinical Infectious Diseases Ontology
+Battle Management Ontology
+BioAssay Ontology
+Biological Collections Ontology
+Biomedical Ethics Ontology
+Biomedical Grid Terminology
+Blood Ontology
+Bone Dysplasia Ontology
+Cancer Cell Ontology
+Cancer Chemoprevention Ontology
+Cardiovascular Disease Ontology
+Cell Behavior Ontology
+Cell Culture Ontology
+Cell Expression; Localization; Development and Anatomy Ontology
+Cell Line Ontology
+Cell Ontology
+Cellular Microscopy Phenotype Ontology
+Chemical Entities of Biological Interest
+Chemical Information Ontology
+Chemical Methods Ontology
+Clusters of Orthologous Groups Analysis Ontology
+Cognitive Paradigm Ontology
+Common Anatomy Reference Ontology
+Common Core Ontologies
+Communication Standards Ontology
+Comparative Data Analysis Ontology
+Computational Neuroscience Ontology
+Computer-Based Patient Record Ontology
+Conceptual Model Ontology
+Coriell Cell Line Ontology
+Drug Interaction Ontology
+Drug Ontology
+Evidence & Conclusion Ontology
+Drug-drug Interaction Ontology
+Emotion Ontology
+Epidemiology Ontology
+Epilepsy and Seizure Ontology
+Evolution Ontology
+EXperimental ACTions Biomedical Protocol Ontology
+Fission Yeast Phenotype Ontology
+Food Ontology
+Gene Regulation Ontology
+General Information Model
+Health Data Ontology Trunk
+Hemocomponents and Hemoderivatives Ontology
+Human Interaction Network Ontology
+Human Physiology Simulation Ontology
+Infectious Disease Ontology
+Information Artifact Ontology
+Informed Consent Ontology
+Interaction Network Ontology
+Interdisciplinary Prostate Ontology Project
+Knowledge Base Of Biomedicine
+Lipid Ontology
+Malaria Ontology
+Materials Ontology
+Mental Disease Ontology
+Mental Functioning Ontology
+Minimum Information Model for Patient Safety
+Middle Layer Ontology for Clinical Care
+Military Scenario Ontology
+MIRO and IRbase: IT Tools for the Epidemiological Monitoring of Insecticide Resistance in Mosquito Disease Vectors
+Model for Clinical Information
+Mouse Pathology Ontology
+Nanoparticle Ontology
+NeuroPsychological Testing Ontology
+Neuroscience Information Framework Standard Ontology
+Neural Electromagnetic Ontologies
+New Upper Level Ontology
+Non-Coding RNA Ontology
+Ontologized Minimum Information About BIobank data Sharing
+Ontology for Biomedical Investigations
+Ontology for Dengue Fever
+Ontology for Drug Discovery Investigations
+Ontology for Energy Investigations
+Ontology for General Medical Science
+Ontology for Genetic Interval
+Ontology for Laparoscopic Surgeries
+Ontology for Newborn Screening and Translational Research
+Ontology for Pain and Related Disability; Mental Health and Quality of Life
+Ontology for Periodontitis
+Ontology of Clinical Research
+Ontology of Biobanking Administration
+Ontology of Biological and Clinical Statistics
+Ontology of Data Mining
+Ontology of Datatypes
+Ontology of Experimental Variables and Values
+Ontology of Medically Related Social Entities
+Ontology of Vaccine Adverse Events
+Ontology-Based Data Access
+Parasite Experiment Ontology
+Phenotypic Quality Ontology
+Plant Ontology
+Population and Community Ontology
+Population Health Record
+Proteomics data and process provenance ontology
+Protein Ontology
+Quality of Service Ontology
+RNA Ontology
+Role Ontology
+Saliva Ontology
+Semanticscience Integrated Ontology
+Situation Awareness Ontology
+Sleep Domain Ontology
+Software Ontology
+Subcellular Anatomy Ontology of Suggested Ontology for Pharmacogenomics
+Time Event Ontology
+Translational Medicine Ontology
+Tumour-Node-Metastasis Ontology
+Microbial Typing Ontology
+Universal Core Semantic Layer
+Vaccination Informed Consent Ontology
+Vaccine Ontology
+Vital Sign Ontology
+Xenopus Anatomy Ontology
+Zebrafish Anatomical Ontology
+ZOBODAT
+Signatures of Majorana fermions in hybrid superconductor-semiconductor nanowire devices
+YP130
+SemEval 2012 Task 2 dataset
+Polish language corpus
+Trademark Electronic Search System
+VOCEDplus
+DigitalCommons@UMaine
+FRBR-aligned Bibliographic Ontology
+RCSB protein data bank
+PDBe
+Satyricon
+Automated Weather Data Network
+ChemInform
+Open Data Web
+EM-DAT
+SHARE Catalogue
+Morphbank
+Soybase
+Legume Information System
+MaizeGDB
+PlantGDB
+Guardiana
+Small Bodies Node
+National Coronial Information System
+TriviaQA
+Digitale Bibliothek Braunschweig
+EdShare
+NC DOCKS
+Diposit Digital de Documents de la UAB
+Digital Commons@Wayne State University
+SoilGrids
+"10
+FEIS
+Systematic Catalog of Culicidae
+Map of Life
+Michigan Flora
+SpringerLink
+National Identity Register
+Online catalog
+Jordan Antiquities Database and Information System
+Missing and Murdered Indigenous Women and Girls
+Conservation and Art Materials Encyclopedia Online
+National Geologic Map Database
+Manufacturer and User Facility Device Experience
+4TU.Centre for Research Data (4TU.ResearchData)
+Data Series
+International Pharmaceutical Abstracts
+IndexCat
+Index-Catalogue of the Library of the Surgeon-General’s Office
+Applied Science & Technology Index
+Kepler Finance
+Odonata of India
+Reptiles of India
+Birds of India
+Moths of North America
+GONIAT
+Catalogue of the Lepidoptera of Belgium
+Leeds Robotic Commands
+C. V. Starr Virtual Herbarium
+Networked Digital Library of Theses and Dissertations
+Mineral Resource Data System
+Epistolae: Medieval Women's Letters
+Litchfield Ledger
+PseudoCAP
+SynGO
+LibriSpeech
+TED-LIUM corpus
+CREMA-D
+Gateway to Research
+Measurement Units Ontology
+Extensible Observation Ontology
+Library for Quantity Kinds and Units
+Semantic Web for Earth and Environmental Terminology
+Microsoft Academic Knowledge Graph
+Logeion
+CERL Thesaurus
+Global Species
+ScaleNet
+Lucerna
+MuseumFinland
+Semantic Kalevala
+BookSampo
+Microsoft Academic Graph
+JRC Names
+Time Ontology in OWL
+Corpus of Linguistic Acceptability
+Japan Search
+Genetics Home Reference
+Arabic Ontology
+SIUSA
+The Bhagavad-Gita
+Archaeology Data Service library
+Profiles in Science
+Register of Antarctic Marine Species
+Kalos
+FB15K-237
+Pinakes
+Culture Collections Information Worldwide
+KBpedia
+Classify
+National Population Register
+CellMarker
+myschool
+MVDBase
+Libraries.org
+Find & Connect
+Musisque Deoque
+SciGraph
+AusPat
+Dcine.org
+Global Names Index
+Vidwan
+SemCor
+"Cross-National Socio-Economic and Religion Data
+"General Social Survey
+"General Social Survey
+"General Social Survey
+National Survey of High School Biology Teachers
+Biomedicina Slovenica
+OpenUp
+Religion among Academic Scientists
+PCORnet
+Calendrier électronique des spectacles sous l'Ancien Régime et la Révolution
+Endangered Archives Programme
+American Memory
+American Mineralogist Crystal Structure Database
+ALT Open Access Repository
+AgEcon Search
+ACMAC
+ARRT
+Archivio Giuliano Marini
+OpenScore
+FIA Results and Statistics
+National Digital Library of Theses and Dissertations in Taiwan
+ISSN Portal
+Proff
+"World Values Survey
+"World Values Survey
+District of Columbia Inventory of Historic Sites
+Museum of Modern Art online collection
+Library Publishing Directory
+TESEO
+New Zealand Heritage List
+Taiwan Cinema
+Pleias
+WorldCat Identities
+The Kidney & Urinary Pathway Knowledge Base
+"Survey of GLAM open access policy and practice
+Newsroom dataset
+Sequence Database Setup: MSDB
+World Flora Online
+Scilit
+The Digital Archaeological Record
+Speech Accent Archive
+Garaph
+DOIBoost Dataset Dump Version 3
+Comprehensive Aramaic Lexicon
+MicrobeDB
+ProKinO: Protein Kinase Ontology Browser
+AnAge
+Vision AI
+LiverTox
+Microworld
+Unified Cyber Ontology
+The Good Old Days
+Symptom Ontology
+8-bits
+VGMRips
+Civil registration
+Illinois Digital Heritage Hub
+Indiana Memory
+Missouri Hub
+North Carolina Digital Heritage Center
+PA Digital
+The Portal to Texas History
+Floridata
+HotpotQA
+SearchQA
+Members of the European Parliament
+DGA Member Directory
+Natural Questions
+WikiHop
+SynTagRus
+PanTHERIA
+NCBI Genome
+NCBI Assembly
+National Record of the Historic Environment
+CIRIS
+Chinese Clinical Trial Registry
+Decoda
+Bang!
+Hot Film
+CLEVR
+Héloïse
+Epistemonikos
+bab.la
+kb.nl
+EDBL
+Bibliopolis
+Common Vulnerabilities and Exposures
+Bioweb Ecuador
+Open Images Dataset
+Places database
+DataPile
+Elephant Encyclopedia
+Land Use Database
+LSE Research Online
+Linked Stage Graph
+80 Million Tiny Images
+Icarus Films
+Tiaki
+Polish scientist
+"Gender
+CephBase
+ZivaHub
+The minority health & health equity archive
+"Survey of GLAM open access policy and practice
+USGS ScienceBase
+VertNet
+depositar
+Library Hub Discover
+Datastream
