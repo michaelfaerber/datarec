@@ -12,6 +12,7 @@ To overcome these limitations, we have proposed a new approach for dataset searc
 
 ## Summary of our approach
 
+![alt text](http://url/to/img.png)
 
 ## Structure of this project
 
