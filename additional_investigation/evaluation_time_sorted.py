@@ -1,7 +1,7 @@
 import datetime
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.model_selection import train_test_split
-from sklearn import gnb
+from sklearn import svm
 from sklearn.naive_bayes import GaussianNB
 from sklearn.multiclass import OneVsRestClassifier
 import preprocessing
@@ -13,7 +13,7 @@ documentation_file_modelopt = open("GNB_tfidf_time_sorted.txt", "w")
 
 ids = []
 publication_dates = []
-with open("PaperID+Date.2020-12.txt") as metadata:
+with open("Abstracts_Metadata.txt") as metadata:
     for i, line in enumerate(metadata):
         ids.append(int(line.split("\t")[0]))
         date = str(line.split("\t")[1]).replace("\n", "")
