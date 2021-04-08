@@ -12,7 +12,7 @@ We propose a new approach for dataset search relying on a text classification mo
 
 ## Architecture
 
-![Schema](https://github.com/michaelfaerber/dataset-search/blob/main/dataset-search.png)
+![Schema](https://github.com/michaelfaerber/dataset-search/blob/main/dataset-search-schema.png)
 
 
 As the figure above demonstrates, the actual dataset search engine is based on a text classification model that is trained in a previos step. Therefore, a database of train and evaluation data consisting of scientific problem descriptions (paper abstracts or citation contexts) and corresponding datasets is created. The texts and labels are prepocessed to enhance the classification quality. In the following, several text classification models are trained and evaluated on this data. By comparing the evaluation results, the best model is selected, which is then utilized in the search engine. The search engine itself takes a scientific problem description, proceeds the preprocessing steps and then the selected, pretrained classifier predicts a list of dataset which are relevant for the given problem description. These dataset are then recommended.
