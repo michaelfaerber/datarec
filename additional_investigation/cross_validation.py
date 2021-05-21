@@ -5,11 +5,9 @@ methods are compared, i.e. hold out evaluation and k-folds stratified cross vali
 
 import pickle
 from sklearn.preprocessing import MultiLabelBinarizer
-from sklearn.model_selection import train_test_split
-from sklearn import svm
-from sklearn import metrics
+from sklearn import svm, metrics
+from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.multiclass import OneVsRestClassifier
-from sklearn.model_selection import cross_val_score
 import preprocessing
 
 
