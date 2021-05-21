@@ -1,5 +1,6 @@
 """
 In this module the fastText classification is implemented and evaluated.
+
 """
 
 from sklearn.model_selection import train_test_split
