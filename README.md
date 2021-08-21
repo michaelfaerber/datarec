@@ -8,7 +8,11 @@ In this repository, we provide the source code of our **dataset search engine**.
 A large and growing number of datasets is available on the web. Dataset search engines, such as [Google Dataset Search](https://datasetsearch.research.google.com) and [Zenodo search](https://zenodo.org/) have been provided to search for datasets. These dataset search engines use mainly faceted search or keyword search. However, exisiting keyword or faceted search are not suitable for very specific and comprehensive queries (e.g., given a research problem description). In addition, these systems rely on the datasets' metadata and are, thus, dependent on the availability and quality of the provided metadata.
 
 
-We propose a new approach for dataset search relying on a text classification model that predicts relevant datasets for a user's input. The user input is a text that describes the research question that the user investigates. A trained classifier predicts all relevant datasets indexed in a given repository based on the entered text. The set of predicted datasets is ranked and sorted by its relevancy for the user's problem description.
+We propose a **new approach for dataset search** relying on a text classification model that predicts relevant datasets for a user's input. The user input is a text that describes the research question that the user investigates. A trained classifier predicts all relevant datasets indexed in a given repository based on the entered text. The set of predicted datasets is ranked and sorted by its relevancy for the user's problem description.
+
+## Demo
+
+See http://data-hunter.io and the associated [repository](https://github.com/michaelfaerber/datahunter).
 
 ## Architecture
 
@@ -61,3 +65,17 @@ Finally, the data that was used can be found in [this folder](https://github.com
 [Michael Färber](https://sites.google.com/view/michaelfaerber) and Ann-Kathrin Leisinger
 
 Feel free to contact us.
+
+## How to Cite
+
+Please cite our [paper](https://aifb.kit.edu/web/Michael_Färber) (published at CIKM'21) as follows:
+```
+@inproceedings{Faerber2021CIKM,
+  author    = {Michael F{\"{a}}rber and
+               Ann-Kathrin Leisinger},
+  title     = "{Recommending Datasets Based on Scientific Problem Descriptions}",
+  booktitle = "{Proceedings of the 30th ACM International Conference on Information and Knowledge Management}",
+  location  = "{Virtual Event}",
+  year      = {2021}
+}
+```
