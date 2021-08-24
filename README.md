@@ -61,6 +61,35 @@ Apart from that, some further investigation regarding sampling strategies, valid
 
 Finally, the data that was used can be found in [this folder](https://github.com/michaelfaerber/dataset-search/tree/main/data).
 
+## Database
+
+The database that is used for training and testing the classification models can be found in the folder [data](https://github.com/michaelfaerber/datarec/tree/main/data). In total, the database contains 1,691 datasets with rich metadata from the DSKG. Moreover we are using more than 88,000 paper abstracts and more than 265,000 citation contexts referencing those datasets. These forms the training and testing data, which is stored in the files _Abstracts_New_Database_ and _Citation_New_Database_.
+
+The datasets most often referenced datasets in those collections are:
+* For Paper Abstracts (_Abstracts_New_Database_):
+   1. 'http://dskg.org/entity/dataset/1195' (ImageNet): referenced by 14561 abstracts
+   2. 'http://dskg.org/entity/dataset/1309' (CIFAR-10): referenced by 4598 abstracts
+   3. 'http://dskg.org/entity/dataset/453' (DBpedia): referenced by 3320 abstracts
+   4. 'http://dskg.org/entity/dataset/1075' (MNIST database): referenced by 2587 abstracts
+   5. 'http://dskg.org/entity/dataset/614' (Web of Science): referenced by 2441 abstracts
+   6. 'http://dskg.org/entity/dataset/1257' (COCO): referenced by 2280 abstracts
+   7. 'http://dskg.org/entity/dataset/545' (Dublin Core): referenced by 1787 abstracts
+   8. 'http://dskg.org/entity/dataset/640' (Freebase): referenced by 1720 abstracts
+   9. 'http://dskg.org/entity/dataset/974' (Atlas): referenced by 1702 abstracts
+   10. 'http://dskg.org/entity/dataset/454' (OpenStreetMap): referenced by 1399 abstracts
+
+* For Citations (_Citation_New_Database_):
+   1. 'http://dskg.org/entity/dataset/1195' (ImageNet): referenced by 40236 citations
+   2. 'http://dskg.org/entity/dataset/1309' (CIFAR-10): referenced by 10538 citations
+   3. 'http://dskg.org/entity/dataset/559' (Protein Data Bank): referenced by 9760 citations
+   4. 'http://dskg.org/entity/dataset/453' (DBpedia): referenced by 6469 citations
+   5. 'http://dskg.org/entity/dataset/700' (Swiss-Prot): referenced by 6376 citations
+   6. 'http://dskg.org/entity/dataset/1257' (COCO): referenced by 5625 citations
+   7. 'http://dskg.org/entity/dataset/811' (Brix): referenced by 5570 citations
+   8. 'http://dskg.org/entity/dataset/472' (National Center for Biotechnology Information): referenced by 5471 citations
+   9. 'http://dskg.org/entity/dataset/640' (Freebase): referenced by 3958 citations
+   10. 'http://dskg.org/entity/dataset/905' (miRBase): referenced by 3741 citations
+
 ## Contact
 [Michael Färber](https://sites.google.com/view/michaelfaerber) and Ann-Kathrin Leisinger
 
